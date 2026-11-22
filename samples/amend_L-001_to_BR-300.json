@@ -1,0 +1,8 @@
+{
+  "lamp_id": "L-001",
+  "model": "BR-300",
+  "revision": 2,
+  "entry_age_days": 0,
+  "exit_age_days": 250,
+  "outcome": "last_known_working"
+}

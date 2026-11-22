@@ -1,0 +1,58 @@
+[
+  {
+    "lamp_id": "L-001",
+    "model": "BR-200",
+    "revision": 1,
+    "entry_age_days": 0,
+    "exit_age_days": 100,
+    "outcome": "first_failure"
+  },
+  {
+    "lamp_id": "L-002",
+    "model": "BR-200",
+    "revision": 1,
+    "entry_age_days": 10,
+    "exit_age_days": 60,
+    "outcome": "first_failure"
+  },
+  {
+    "lamp_id": "L-003",
+    "model": "BR-200",
+    "revision": 1,
+    "entry_age_days": 0,
+    "exit_age_days": 150,
+    "outcome": "last_known_working"
+  },
+  {
+    "lamp_id": "L-004",
+    "model": "BR-200",
+    "revision": 1,
+    "entry_age_days": 20,
+    "exit_age_days": 80,
+    "outcome": "last_known_working"
+  },
+  {
+    "lamp_id": "L-005",
+    "model": "BR-200",
+    "revision": 1,
+    "entry_age_days": 0,
+    "exit_age_days": 100,
+    "outcome": "first_failure"
+  },
+  {
+    "lamp_id": "L-101",
+    "model": "BR-300",
+    "revision": 1,
+    "entry_age_days": 5,
+    "exit_age_days": 200,
+    "outcome": "first_failure"
+  },
+  {
+    "lamp_id": "L-102",
+    "model": "BR-300",
+    "revision": 1,
+    "entry_age_days": 0,
+    "exit_age_days": 300,
+    "outcome": "last_known_working"
+  }
+]

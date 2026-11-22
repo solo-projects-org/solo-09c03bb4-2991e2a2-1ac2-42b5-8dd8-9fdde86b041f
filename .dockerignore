@@ -1,0 +1,9 @@
+.git
+.gitignore
+.venv
+__pycache__
+*.pyc
+lamps.db
+lamps.db-*
+tests
+.pytest_cache

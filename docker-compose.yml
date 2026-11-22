@@ -1,0 +1,15 @@
+services:
+  lamp-km-api:
+    build: .
+    image: lamp-km-api:latest
+    container_name: lamp-km-api
+    ports:
+      - "8000:8000"
+    volumes:
+      - lamp_data:/data
+    environment:
+      LAMPS_DB_PATH: /data/lamps.db
+    restart: unless-stopped
+
+volumes:
+  lamp_data:
